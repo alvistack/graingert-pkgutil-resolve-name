@@ -1,0 +1,5 @@
+python-pkgutil-resolve-name source: file-without-copyright-information
+python-pkgutil-resolve-name source: no-debian-changes
+python-pkgutil-resolve-name source: source-contains-prebuilt-windows-binary
+python-pkgutil-resolve-name source: source-is-missing
+python-pkgutil-resolve-name source: source-package-encodes-python-version
