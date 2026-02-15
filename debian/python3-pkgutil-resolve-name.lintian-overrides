@@ -1,0 +1,4 @@
+python3-pkgutil-resolve-name: copyright-without-copyright-notice
+python3-pkgutil-resolve-name: initial-upload-closes-no-bugs
+python3-pkgutil-resolve-name: no-manual-page
+python3-pkgutil-resolve-name: zero-byte-file-in-doc-directory
